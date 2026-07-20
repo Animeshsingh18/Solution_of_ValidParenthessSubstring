@@ -31,7 +31,7 @@ Given a string consisting of only `'('` and `')'`, determine the **length of the
 
 ---
 
-### 2. Optimized Two-Pass Approach (Implemented)
+### 2. Optimized Two-Pass Approach 
 
 This solution avoids using any extra data structure and uses **constant extra space**.
 
